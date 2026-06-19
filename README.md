@@ -26,9 +26,5 @@ Because this project relies on **Manim**, you must have the following system-lev
 * **FFmpeg** (for video rendering)
 * **LaTeX** (e.g., TeX Live or MiKTeX, for rendering mathematical equations)
 
-### Installation Steps
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/black-scholes-manim.git](https://github.com/YOUR_USERNAME/black-scholes-manim.git)
-   cd black-scholes-manim
+
